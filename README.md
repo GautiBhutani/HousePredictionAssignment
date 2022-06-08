@@ -1,4 +1,4 @@
-# Bike Sharing Linear regression (Case Study)
+# House Prediction assignment (Advance Linear regression)
 > House Prediction assignment as a part of Master's program in AI/ML at Upgrad. 
 
 
